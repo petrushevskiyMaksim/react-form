@@ -1,0 +1,21 @@
+.form__btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding: 15px 50px;
+	border-radius: 4px;
+	background-color: #4b72c2;
+	color: #fff;
+}
+
+.form__btn:hover,
+.form__btn:focus {
+	box-shadow: 0 0 0 1px #246dff, 0 0 10px #ffffff58;
+	background-color: #246dff;
+}
+
+.form__btn:disabled {
+	box-shadow: inherit;
+	background-color: gray;
+}
