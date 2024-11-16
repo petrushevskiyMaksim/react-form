@@ -1,0 +1,12 @@
+.heading {
+	margin-bottom: 50px;
+}
+.heading__title {
+	margin-bottom: 15px;
+	font-size: 32px;
+	font-weight: 700;
+}
+.heading__text {
+	font-size: 18px;
+	color: #7f7f7f;
+}
